@@ -1,0 +1,42 @@
+/*Couleur de fond du header et footer*/
+.bg-dark{
+	background-color: black ;
+}
+.marginTop
+{
+	margin-top: 80px;
+}
+
+.well-bg-white
+{
+	background-color: 	white;
+	width : 50%;
+	margin:auto;
+}
+.well-w-70{
+	margin: auto;
+	width : 70%;
+}
+
+.textwhite{
+	color:white;
+}
+
+
+
+hr {
+	 display: block; height: 1px;
+    border: 0; border-top: 1px solid #ccc;
+    margin: 1em 0; padding: 0; 
+}
+
+.boldblack
+{
+	font-weight: bold;
+	color:black;
+	font-size : larger;
+}
+
+a:hover{
+	text-decoration: none;
+}
